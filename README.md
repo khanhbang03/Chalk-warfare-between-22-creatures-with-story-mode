@@ -1,7 +1,9 @@
 # Chalk-warfare-between-22-creatures-with-story-mode
+<img width="2377" height="1347" alt="Screenshot 2025-11-13 100240" src="https://github.com/user-attachments/assets/deeda86e-466a-46ef-bb82-29408279758f" />
+
 🎬 Chalk Warfare — 22 Creatures: Story Mode (Cinematic Sequence)
 Premise
-
+![f45819d8813048d128cdce03972533a2](https://github.com/user-attachments/assets/0f925c68-124d-462d-8004-98d578d1c12e)
 A ruined amphitheater of chalk (an old stadium) becomes the arena. 22 unique creatures — some humanoid, some fantastical — clash in a fast, cinematic free-for-all. The story mode is divided into four acts. Each act has triggers that automatically fire specific creature abilities, camera moves, and audio cues.
 
 🐾 The 22 Creatures (short roster & abilities)
